@@ -29,4 +29,5 @@ def get_data_types():
     boolean_var = True
 
     return (integer_var, float_var, string_var, boolean_var)
+
     pass
